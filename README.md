@@ -1,5 +1,5 @@
 # 💫 About Me:
-What's up! My name's Xy. I am a programmer in FEU Institute of Technology. <br>I love to learn new things and always pursue difficult stuff.
+What's up! My name's Xy. A softwar engineer at FEU Institute of Technology. Check out my awesome git contributions and repositories~~.
 
 
 ## 🌐 Socials:
