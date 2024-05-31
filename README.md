@@ -1,3 +1,6 @@
+# 🤓Hey, I am Xy
+
+![MS Office](./myPicture.jpg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//xynil-jhed-lacap-76ba9029a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user//thereal_Xy) 
