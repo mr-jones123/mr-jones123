@@ -3,9 +3,11 @@
 <p align="center">
 <img src="my-notion-face-portrait.png" width="600" height="600" class="center"/>
 </p>
-# 💫 About Me:
-I am Xy! I make and teach cool things!🤖🤓
 
+## 🧑‍💻Website: 
+[Check me out](https://xy-profile.vercel.app)
+## About Me:
+I am Xy! I make and teach cool things!🤖🤓
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/xynil-jhed-lacap-76ba9029a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/xy3082761935391) 
 
