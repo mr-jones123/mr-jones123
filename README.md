@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="sukuna.png" width="420" alt="Ryomen Sukuna" />
-
 # Xy
 
 **AI Engineer · Philippines**
 
 I study **AI harnesses**: the scaffolding around a model that turns it into an agent. Tools, memory, skills, evals, and the loop that ties them together.
+
+<img src="sukuna.png" width="260" alt="Ryomen Sukuna" />
 
 [![Website](https://img.shields.io/badge/Website-xy--profile.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://xy-profile.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xynil-jhed-lacap-76ba9029a/)
